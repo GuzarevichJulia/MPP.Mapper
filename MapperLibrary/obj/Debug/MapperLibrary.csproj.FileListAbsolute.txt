@@ -1,5 +1,0 @@
-D:\Учёба\Семестр 5\СПП\Lab4\ConsoleApplicationLab4\MapperLibrary\bin\Debug\MapperLibrary.dll
-D:\Учёба\Семестр 5\СПП\Lab4\ConsoleApplicationLab4\MapperLibrary\bin\Debug\MapperLibrary.pdb
-D:\Учёба\Семестр 5\СПП\Lab4\ConsoleApplicationLab4\MapperLibrary\obj\Debug\MapperLibrary.dll
-D:\Учёба\Семестр 5\СПП\Lab4\ConsoleApplicationLab4\MapperLibrary\obj\Debug\MapperLibrary.pdb
-D:\Учёба\Семестр 5\СПП\Lab4\ConsoleApplicationLab4\MapperLibrary\obj\Debug\MapperLibrary.csprojResolveAssemblyReference.cache
